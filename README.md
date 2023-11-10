@@ -5,9 +5,13 @@ The Birthday Wisher Bot is a Python script designed to automate the process of s
 <b><a href="https://replit.com/@HayOo1/BirthdayWisherBot" style="color:purple;">Click here to use this program in Replit</a></b>
 
 ![alt text](/program.png)
+
+## Features
+Automated Birthday Emails: The script automates the process of sending personalized birthday emails, saving you time and ensuring your friends and loved ones receive heartfelt wishes on their special day.
+
 ## Configuration
 
-Before using the Birthday Wisher Bot, follow these steps to set up and customize the script:
+Before using the Birthday Wisher Bot, follow these steps to set up and customize the script in main.py:
 
 1. **Gmail Credentials**: Replace the placeholder values in the script with your Gmail email address and password.
 
@@ -19,6 +23,7 @@ Before using the Birthday Wisher Bot, follow these steps to set up and customize
 2. **CSV Data**: Ensure that your CSV file (`birthdays.csv`) is properly formatted with columns: `name`, `email`, `year`, `month`, and `day`.
 
 3. **Letter Templates**: Customize the letter templates in the `letter_template` folder or add your own templates. Ensure that the placeholders, such as `[NAME]`, are present in the templates for personalization.
+
 
 ## Usage
 
